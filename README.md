@@ -10,7 +10,7 @@
 
 1) Foi realizada a análise exploratória dos dados abertos disponibilizados pelo centro de investigação e prevenção de acidentes aeronáuticos (CENIPA), onde constam 6.238 ocorrências aeronáuticas notificadas entre os anos de 2012 e 2020.  
 2) Na segunda fase foi realizada a estruturação, adequação dos dados e posterior ajuste de modelos de machine Learning utilizando a biblioteca pycaret . O objetivo foi prever a classificação das ocorrências em acidente, incidente grave, incidente a partir da base de variáveis fornecidas.
-![image](https://user-images.githubusercontent.com/78922922/166731604-7975d8e9-c145-49d5-926b-f04e85595f2b.png)
+
 
 
 
